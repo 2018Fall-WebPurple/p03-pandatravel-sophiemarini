@@ -1,0 +1,20 @@
+/*
+*Sophie Marini
+*Due Date
+*Whaley house
+*/
+
+/*The universal selector*/
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+background-color:sandybrown
+} 
+#interior {float: left;}
+#exterior {float:left}
+#topic {clear: both;}
